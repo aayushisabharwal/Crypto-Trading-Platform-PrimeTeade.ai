@@ -49,24 +49,21 @@ A production-ready full-stack application demonstrating secure backend architect
 
 ## 📦 Project Structure
 
-
 project-root/
 ├── backend/
-│ ├── src/
-│ │ ├── controllers/
-│ │ ├── models/
-│ │ ├── routes/
-│ │ ├── middleware/
-│ │ ├── services/
-│ │ └── config/
-│ └── server.js
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   ├── middleware/
+│   │   ├── services/
+│   │   └── config/
+│   └── server.js
 ├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ └── App.js
+│   ├── src/
+│   │   ├── components/
+│   │   └── App.js
 └── README.md
-
-
 ---
 
 ## 🚀 Getting Started
